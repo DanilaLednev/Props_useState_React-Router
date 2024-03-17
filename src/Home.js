@@ -13,9 +13,6 @@ function Home() {
     setClothes(newClothes)
   }
 
-  // const getAllClothes = () => {
-  //    useState(data);
-  // }
 
   return(<div>
       <div className='cont'>
